@@ -358,5 +358,10 @@
     "name": "Zhongli",
     "icon": "/assets/characters/zhongli.png",
     "id": "zhongli"
+  },
+  {
+    "name": "Neuvillete",
+    "icon": "/assets/characters/neuvillete.png",
+    "id": "neuvillete"
   }
 ]
