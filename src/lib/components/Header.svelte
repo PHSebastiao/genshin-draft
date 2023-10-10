@@ -46,7 +46,7 @@
   </svelte:fragment>
   <svelte:fragment slot="end">
     <Link
-      href="https://github.com/martins-42"
+      href="https://github.com/martins-yuu"
       target="_blank"
       rel="noreferrer"
       intent="ghost"

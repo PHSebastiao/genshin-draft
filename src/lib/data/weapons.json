@@ -45,6 +45,11 @@
     "id": "ballad_of_the_fjords"
   },
   {
+    "name": "Ballad of the Boundless Blue",
+    "icon": "assets/weapons/ballad_of_the_boundless_blue.png",
+    "id": "ballad_of_the_boundless_blue"
+  },
+  {
     "name": "Beacon of the Reed Sea",
     "icon": "/assets/weapons/beacon_of_the_reed_sea.png",
     "id": "beacon_of_the_reed_sea"
@@ -93,6 +98,11 @@
     "name": "Calamity Queller",
     "icon": "/assets/weapons/calamity_queller.png",
     "id": "calamity_queller"
+  },
+  {
+    "name": "Cashflow Supervision",
+    "icon": "/assets/weapons/cashflow_supervision.png",
+    "id": "cashflow_supervision"
   },
   {
     "name": "Cinnabar Spindle",
@@ -455,6 +465,11 @@
     "id": "polar_star"
   },
   {
+    "name": "Portable Power Saw",
+    "icon": "/assets/weapons/portable_power_saw.png",
+    "id": "portable_power_saw"
+  },
+  {
     "name": "Predator",
     "icon": "/assets/weapons/predator.png",
     "id": "predator"
@@ -470,19 +485,9 @@
     "id": "primordial_jade_wingedspear"
   },
   {
-    "name": "Prized Isshin Blade",
-    "icon": "/assets/weapons/prized_isshin_blade.png",
-    "id": "prized_isshin_blade"
-  },
-  {
-    "name": "Prized Isshin Blade",
-    "icon": "/assets/weapons/prized_isshin_blade.png",
-    "id": "prized_isshin_blade"
-  },
-  {
-    "name": "Prized Isshin Blade",
-    "icon": "/assets/weapons/prized_isshin_blade.png",
-    "id": "prized_isshin_blade"
+    "name": "Prospector's Drill",
+    "icon": "/assets/weapons/prospectors_drill.png",
+    "id": "prospectors_drill"
   },
   {
     "name": "Prototype Amber",
@@ -513,6 +518,11 @@
     "name": "Rainslasher",
     "icon": "/assets/weapons/rainslasher.png",
     "id": "rainslasher"
+  },
+  {
+    "name": "Range Gauge",
+    "icon": "/assets/weapons/range_gauge.png",
+    "id":"range_gauge"
   },
   {
     "name": "Raven Bow",
@@ -725,6 +735,11 @@
     "id": "the_catch"
   },
   {
+    "name": "The Dockhand's Assistant",
+    "icon": "/assets/weapons/the_dockhands_assistant.png",
+    "id":"the_dockhands_assistant"
+  },
+  {
     "name": "The First Great Magic",
     "icon": "/assets/weapons/the_first_great_magic.png",
     "id": "the_first_great_magic"
@@ -768,6 +783,11 @@
     "name": "Tidal Shadow",
     "icon": "/assets/weapons/tidal_shadow.png",
     "id": "tidal_shadow"
+  },
+  {
+    "name": "Tome of the Eternal Flow",
+    "icon": "/assets/weapons/tome_of_the_eternal_flow.png",
+    "id": "tome_of_the_eternal_flow"
   },
   {
     "name": "Toukabou Shigure",
