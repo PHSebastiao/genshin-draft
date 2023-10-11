@@ -220,6 +220,11 @@
     "id": "nahida"
   },
   {
+    "name": "Neuvillete",
+    "icon": "/assets/characters/neuvillete.png",
+    "id": "neuvillete"
+  },
+  {
     "name": "Nilou",
     "icon": "/assets/characters/nilou.png",
     "id": "nilou"
@@ -305,6 +310,11 @@
     "id": "wanderer"
   },
   {
+    "name": "Wriothesley",
+    "icon": "/assets/characters/wriothesley.png",
+    "id": "wriothesley"
+  },
+  {
     "name": "Xiangling",
     "icon": "/assets/characters/xiangling.png",
     "id": "xiangling"
@@ -358,10 +368,5 @@
     "name": "Zhongli",
     "icon": "/assets/characters/zhongli.png",
     "id": "zhongli"
-  },
-  {
-    "name": "Neuvillete",
-    "icon": "/assets/characters/neuvillete.png",
-    "id": "neuvillete"
   }
 ]
