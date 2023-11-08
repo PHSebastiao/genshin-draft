@@ -690,6 +690,11 @@
     "id": "song_of_stillness"
   },
   {
+    "name": "Splendor of Tranquil Waters",
+    "icon": "/assets/weapons/splendor_of_tranquil_waters.png",
+    "id": "splendor_of_tranquil_waters"
+  },
+  {
     "name": "Staff of Homa",
     "icon": "/assets/weapons/staff_of_homa.png",
     "id": "staff_of_homa"
@@ -708,6 +713,11 @@
     "name": "Sword of Descension",
     "icon": "/assets/weapons/sword_of_descension.png",
     "id": "sword_of_descension"
+  },
+  {
+    "name": "Sword of Narzissenkreuz",
+    "icon": "/assets/weapons/sword_of_narzissenkreuz.png",
+    "id": "sword_of_narzissenkreuz"
   },
   {
     "name": "Talking Stick",
